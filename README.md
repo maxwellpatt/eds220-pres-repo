@@ -9,6 +9,6 @@ The goal of this repository is to:
 2. Assess Wildfire Impact: Utilize Landsat 8 satellite imagery to create true and false-color images of the region, highlighting areas affected by the 2017 Thomas Fire. This analysis seeks to understand the spatial extent of the fire and its impact on the local environment.
 
 ## Data 
-The data for AQI is available here: https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2017.zip (2017) and here: https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2018.zip (2018). Access date October 28, 2023.
+The data for AQI is available here: https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2017.zip (2017) and here: https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2018.zip (2018). Access date November 28, 2023.
 
 The data for the false color image and Thomas Fire are available in the data folder of the repository.
